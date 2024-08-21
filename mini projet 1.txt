@@ -1,0 +1,22 @@
+1-)Student  class(age,full name,id,date of birth, place of birth,year,class,grades,attendences,password,email,year,phone nmber)
+2-)Attendences class (list of courses+the attendeces of each cours){mark attendece,calculate,display,%}
+3-)Grade management class(){calculate/change/add/display/percentage}
+4-)Teachers class(age,full name,id,date of birth, place of birth,year,classes,attendences,password,course,email,phone nmber)
+5-)Course classes(course code,coefcient,teachers){add/remove/change}
+6-)year classes(students,chourses,teacers,salle tp/td,program){add/remover/change}
+7-)departement class(year)
+8-)admins class(user,password)
+9-)interface for notifications to send messages to students
+10-)input/output for every class
+11-)store data in files
+
+
+additional stuff--->authentification--->user interface
+
+
+plan
+
+start program-->login page(authentification)-->if(admin)-->management ui with all privileges-->else-->student ui-->display info privileges
+
+
+privileges-->check every class info--> change info-->remove,add inffo
